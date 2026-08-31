@@ -1,0 +1,8 @@
+-	Replace the DC gear motor with a stepper motor to have more precise movement and power 	it from the same 5V source the servos are powered from.
+
+-	A bigger arm using a spur gear system for the joint.
+
+-	Servo motor with more torque.
+
+NOTE
+I had to use a different power source because the driver I used caused a voltage loss, so using 5V would only give 2V/3V output, clearly not enough for movement. 
